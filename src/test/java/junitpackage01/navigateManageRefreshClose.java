@@ -1,8 +1,10 @@
+package junitpackage01;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class navigate_manage_refresh_close {
+public class navigateManageRefreshClose {
     //...Practice 1...
     // Set Driver Path
     // Create chrome driver object
